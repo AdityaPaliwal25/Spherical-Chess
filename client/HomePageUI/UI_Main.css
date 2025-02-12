@@ -1,3 +1,17 @@
 body{
     margin: 0px;
 }
+
+#UI_MAIN{ 
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+#SphereChessLogo{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    height: 20%;
+    width: 20%;
+}
