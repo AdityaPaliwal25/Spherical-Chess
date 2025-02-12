@@ -8,10 +8,12 @@
     <link rel="stylesheet" type="text/css" href="/HomePageUI/UI_Main.css">
   </head>
   <body>
+    
     <div id="root">
     </div>
-
-    <img id="SC_logo" src="HomePageUI/UI_Resources/SphereChessLogo.svg"/>
+    <div id="UI_MAIN">
+      <img id="SphereChessLogo" src="/HomePageUI/UI_Resources/SphereChessLogo.svg" >
+    </div>
     
     <script type="importmap">
 			{
@@ -22,9 +24,11 @@
 			}
 		</script>
     <script type="module" src="/src/main.jsx"></script>
+
+
     
-    <script>
+    <!-- <script>
       (function(){var script=document.createElement('script');script.onload=function(){var stats=new Stats();document.body.appendChild(stats.dom);requestAnimationFrame(function loop(){stats.update();requestAnimationFrame(loop)});};script.src='https://mrdoob.github.io/stats.js/build/stats.min.js';document.head.appendChild(script);})()
-    </script>
+    </script> -->
   </body>
 </html>

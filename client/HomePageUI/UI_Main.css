@@ -2,12 +2,16 @@ body{
     margin: 0px;
 }
 
-#root{
-    position:relative;
+#UI_MAIN{ 
+    height: 100%;
+    width: 100%;
+    position: relative;
 }
 
-#SC_logo{
+#SphereChessLogo{
     position: absolute;
     left: 20px;
     top: 20px;
+    height: 20%;
+    width: 20%;
 }
