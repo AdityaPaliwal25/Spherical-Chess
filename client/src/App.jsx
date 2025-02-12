@@ -38,7 +38,6 @@ useEffect(()=>{//TODO: FIX ME!!!!!!!!
 const renderer = new THREE.WebGLRenderer({antialias:true});
 renderer.setSize( window.innerWidth, window.innerHeight );
 renderer.setAnimationLoop( animate );
-// document.body.appendChild( renderer.domElement );
 document.querySelector("#UI_MAIN").appendChild( renderer.domElement );
 const controls=new TrackballControls(camera, renderer.domElement);
 
