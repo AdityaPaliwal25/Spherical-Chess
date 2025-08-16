@@ -19,11 +19,13 @@ The board is spherical, hence, the moves which allowed the pieces to move as far
 <br></br>
 <p align="center">
     <img width="263" height="263" alt="BoardLayout" src="https://github.com/user-attachments/assets/db6e857b-77b9-45f0-a589-4f357df6f697" />
+    <img width="263" height="260" alt="AllPiecesPlaced" src="https://github.com/user-attachments/assets/0201add3-b2b3-4493-a854-af2cbf1bb118" />
 </p>
 <br></br>
 The squares at the edges are triangles, which better represent an opened sphere. We will reference this representation of the board moving forward.
 <br>
-<h2>Pawn's Moves</h2> 
+<h2>Pawn's Moves</h2>
+The pawn can move  
 <img width="266" height="260" alt="PawnMoves" src="https://github.com/user-attachments/assets/b3d0dc19-b91f-4f52-aa57-67a2b8317c93" />
 
 <h2>Rook's Moves</h2>
