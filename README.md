@@ -78,3 +78,6 @@ The King's moves are mostly the same as on a normal board, just at the corners t
 <img width="260" height="261" alt="KingsMoves2" src="https://github.com/user-attachments/assets/a5ad8d7c-fa46-4a66-b7d1-859af57a9d04" />
 <img width="259" height="261" alt="KingsMoves" src="https://github.com/user-attachments/assets/e7373cd3-bcf2-453a-a42b-33603b6746e1" />
 </p>
+
+<br>
+Authors- <a href="https://github.com/KrishnaSonawane8008">Krishna Sonawane</a>
