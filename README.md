@@ -12,4 +12,4 @@ It should look something like this:
 <br>
 After running the "npm run dev" command from the client directoty, a link to a local host port will be provided which will take you to the project's enironment, you need to open the same link in another tab in order to play or interract with the board. 
 <br>
-The method of running the project is still very unconventional because it's still in test phase, we have not been able to work on it properly(mostly because we were busy with college) in order to host it somehwere.
+The method of running the project is still very "unconventional" because it's still in test phase, we have not been able to work on it properly(mostly because we were busy with college) in order to host it somehwere.
