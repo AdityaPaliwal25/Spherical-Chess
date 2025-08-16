@@ -13,3 +13,7 @@ It should look something like this:
 After running the "npm run dev" command from the client directoty, a link to a local host port will be provided which will take you to the project's enironment, you need to open the same link in another tab in order to play or interract with the board. 
 <br>
 The method of running the project is still very "unconventional" because it's still in test phase, we have not been able to work on it properly(mostly because we were busy with college) in order to host it somehwere.
+
+<h1>Game Rules</h1>
+The board is spherical, hence, the moves which allowed the pieces to move as far as the board permitted(like Bishops diagonal movements or Rooks vertical and horizontal movements) now can make a loop around the board. And this becomes harder to predict when playing as compared to the normal board, so here's a better representation of the board:
+<br></br>
