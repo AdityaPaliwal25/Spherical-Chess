@@ -25,7 +25,10 @@ The board is spherical, hence, the moves which allowed the pieces to move as far
 The squares at the edges are triangles, which better represent an opened sphere. We will reference this representation of the board moving forward.
 <br>
 <h2>Pawn's Moves</h2>
-The pawn can move  
+The pawn can move forward a place and attack diagonally, as a normal game and it promotes when it reaches the end.
+<br>
+The round nature of the board doesn't affect the moves a lot, and it translates pretty much the same. 
+<br></br> 
 <img width="266" height="260" alt="PawnMoves" src="https://github.com/user-attachments/assets/b3d0dc19-b91f-4f52-aa57-67a2b8317c93" />
 
 <h2>Rook's Moves</h2>
