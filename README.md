@@ -43,7 +43,7 @@ As the rook can move as far as the board allows, when no obstructions in path, h
 
 
 <h2>Knight's Moves</h2>
-
+The Knight can move in 4 directions with the 2 forward and 1 horizontal square cnfiguration. For most of the board, the Knights moves stay the same and some change can be seen only near the top-most and bottom-most rows of the board. The changes occur because of the looping feature of the sphere, its more clear in the 3D view.  
 <br></br> 
 <p align="center">
 <img width="261" height="261" alt="KnightsMoves2" src="https://github.com/user-attachments/assets/bbf57868-a179-404f-ad37-a1d59b263fb9" />
@@ -52,6 +52,7 @@ As the rook can move as far as the board allows, when no obstructions in path, h
 </p>
 
 <h2>Bishop's Moves</h2>
+The Bishop moves diagonally, hence it can loop around the sphere in a helical manner, you will notice in the 3D view that the direction of movement changes when crossing the poles of the sphere, the reasons for the direction change is more apparent in the 2D representation.
 <br></br> 
 <p align="center">
 <img width="261" height="260" alt="BishopsMoves3" src="https://github.com/user-attachments/assets/774b33cd-c965-4939-a148-b7932edd6c1a" />
@@ -60,6 +61,7 @@ As the rook can move as far as the board allows, when no obstructions in path, h
 </p>
 
 <h2>Queen's Moves</h2>
+The Queen can move diagonally as well as in vertical and horizontal direction, hence, the Queen covers the most amount of area on the board. The same is true for the spherical as the Queen's moveset is that of the Rook and the Bishop combined, hence, the same rules apply to them.
 <br></br> 
 <p align="center">
 <img width="261" height="261" alt="QueensMoves5" src="https://github.com/user-attachments/assets/2ab1360f-3777-4cbf-9802-f6d8dc956578" />
@@ -70,6 +72,7 @@ As the rook can move as far as the board allows, when no obstructions in path, h
 </p>
 
 <h2>King's Moves</h2>
+The King's moves are mostly the same as on a normal board, just at the corners the King moves in an unconventional way, it can be seen more easily in the 3D view.
 <br></br> 
 <p align="center">
 <img width="260" height="261" alt="KingsMoves2" src="https://github.com/user-attachments/assets/a5ad8d7c-fa46-4a66-b7d1-859af57a9d04" />
