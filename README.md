@@ -20,3 +20,14 @@ The board is spherical, hence, the moves which allowed the pieces to move as far
 <p align="center">
     <img width="263" height="263" alt="BoardLayout" src="https://github.com/user-attachments/assets/db6e857b-77b9-45f0-a589-4f357df6f697" />
 </p>
+<br></br>
+The squares at the edges are triangles, which better represent an opened sphere. We will reference this representation of the board moving forward.
+<br>
+<h2>Pawn's Moves</h2> 
+
+
+<h2>Rook's Moves</h2>
+<h2>Knight's Moves</h2>
+<h2>Bishop's Moves</h2>
+<h2>Queen's Moves</h2>
+<h2>King's Moves</h2>
