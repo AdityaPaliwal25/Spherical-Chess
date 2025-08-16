@@ -17,3 +17,4 @@ The method of running the project is still very "unconventional" because it's st
 <h1>Game Rules</h1>
 The board is spherical, hence, the moves which allowed the pieces to move as far as the board permitted(like Bishops diagonal movements or Rooks vertical and horizontal movements) now can make a loop around the board. And this becomes harder to predict when playing as compared to the normal board, so here's a better representation of the board:
 <br></br>
+<img width="263" height="263" alt="BoardLayout" src="https://github.com/user-attachments/assets/db6e857b-77b9-45f0-a589-4f357df6f697" />
