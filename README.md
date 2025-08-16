@@ -22,35 +22,45 @@ The board is spherical, hence, the moves which allowed the pieces to move as far
     <img width="263" height="260" alt="AllPiecesPlaced" src="https://github.com/user-attachments/assets/0201add3-b2b3-4493-a854-af2cbf1bb118" />
 </p>
 <br></br>
-The squares at the edges are triangles, which better represent an opened sphere. We will reference this representation of the board moving forward.
+The squares at the edges are triangles, which better represent an opened sphere. We will reference this representation of the board moving forward. Now, beacuse the board is a sphere, we are currently looking at multiple loops on the same board, more specifically the following columns form loops on the sphere: columns 1 & 5, columns 2 & 6, columns 3 & 7, and columns 4 & 8.  
 <br>
 <h2>Pawn's Moves</h2>
-The pawn can move forward a place and attack diagonally, as a normal game and it promotes when it reaches the end.
-<br>
-The round nature of the board doesn't affect the moves a lot, and it translates pretty much the same. 
+The pawn can move forward a place and attack diagonally, as a normal game and it promotes when it reaches the end. The round nature of the board doesn't affect the moves a lot, and it translates pretty much the same. 
 <br></br> 
+
 <p align="center">
 <img width="266" height="260" alt="PawnMoves" src="https://github.com/user-attachments/assets/b3d0dc19-b91f-4f52-aa57-67a2b8317c93" />
 </p>
+
 <h2>Rook's Moves</h2>
+As the rook can move as far as the board allows, when no obstructions in path, hence, on a spherical board the Rook can form a loop. As you can see the Rook starts at a square and his vertical movement covers two columns on the board and the horizontal movements cause a wrap around the board. This is so because on a spherical board the columns 4 & 8 form a loop.
+<br></br> 
 <p align="center">
 <img width="263" height="262" alt="RooksMoves" src="https://github.com/user-attachments/assets/1dec4f17-ca77-43b5-ba00-88e9be98a912" />
 <img width="261" height="262" alt="RooksMoves3" src="https://github.com/user-attachments/assets/4064076f-208c-4591-815e-135d6e82c890" />
 <img width="261" height="261" alt="RooksMoves2" src="https://github.com/user-attachments/assets/b9f382e2-a9d7-4a2f-9c4c-883d7eebc431" />
 </p>
+
+
 <h2>Knight's Moves</h2>
+
+<br></br> 
 <p align="center">
 <img width="261" height="261" alt="KnightsMoves2" src="https://github.com/user-attachments/assets/bbf57868-a179-404f-ad37-a1d59b263fb9" />
 <img width="261" height="262" alt="KnightsMoves" src="https://github.com/user-attachments/assets/4b467aa0-c55a-4c7d-9b15-af06ab094c48" />
 <img width="260" height="261" alt="KnightsMoves3" src="https://github.com/user-attachments/assets/09de10ab-e670-477b-82f1-92d8964e6012" />
 </p>
+
 <h2>Bishop's Moves</h2>
+<br></br> 
 <p align="center">
 <img width="261" height="260" alt="BishopsMoves3" src="https://github.com/user-attachments/assets/774b33cd-c965-4939-a148-b7932edd6c1a" />
 <img width="261" height="260" alt="BishopsMoves2" src="https://github.com/user-attachments/assets/b8f7281b-3d14-47d3-aec9-76f5b46a0620" />
 <img width="260" height="260" alt="BishopsMoves" src="https://github.com/user-attachments/assets/5df484ea-2a2a-4a85-888f-2f296fcdbf9c" />
 </p>
+
 <h2>Queen's Moves</h2>
+<br></br> 
 <p align="center">
 <img width="261" height="261" alt="QueensMoves5" src="https://github.com/user-attachments/assets/2ab1360f-3777-4cbf-9802-f6d8dc956578" />
 <img width="261" height="262" alt="QueensMoves4" src="https://github.com/user-attachments/assets/b0e8058c-0542-4786-aa15-58ec8616d663" />
@@ -60,6 +70,7 @@ The round nature of the board doesn't affect the moves a lot, and it translates 
 </p>
 
 <h2>King's Moves</h2>
+<br></br> 
 <p align="center">
 <img width="260" height="261" alt="KingsMoves2" src="https://github.com/user-attachments/assets/a5ad8d7c-fa46-4a66-b7d1-859af57a9d04" />
 <img width="259" height="261" alt="KingsMoves" src="https://github.com/user-attachments/assets/e7373cd3-bcf2-453a-a42b-33603b6746e1" />
