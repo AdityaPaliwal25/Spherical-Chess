@@ -80,4 +80,4 @@ The King's moves are mostly the same as on a normal board, just at the corners t
 </p>
 
 <br>
-<h5>Authors- <a href="https://github.com/KrishnaSonawane8008">Krishna Sonawane</a> & <a href="https://github.com/AdityaPaliwal25">Aditya Paliwal</a></h5>
+<h4>Creators- <a href="https://github.com/KrishnaSonawane8008">Krishna Sonawane</a> & <a href="https://github.com/AdityaPaliwal25">Aditya Paliwal</a></h4>
